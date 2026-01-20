@@ -1190,10 +1190,9 @@ with tab6:
 # =============================================================================
 st.markdown("---")
 st.markdown(
-    "<div style='text-align: center; color: #64748b; font-size: 13px;'>"
-    "🔐 Global Cyber Risk Intelligence Dashboard | "
-    f"Data Period: 2015–2024 | Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')} UTC | "
-    "Confidential – Executive Use Only"
+    "<div style='text-align: center; color: #64748b; font-size: 13px; line-height: 1.6;'>"
+    "🔐 <strong>Global Cyber Risk Intelligence Dashboard</strong> | Data Period: 2015–2024<br>"
+    "Made with <a href='https://github.com/mercydeez' target='_blank' style='color: #ef4444; text-decoration: none; font-size: 16px;'>❤️</a> by <strong>Atharva Soundankar</strong>"
     "</div>",
     unsafe_allow_html=True
 )

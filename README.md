@@ -1,8 +1,10 @@
 # 🔐 Global Cyber Risk Intelligence Dashboard (2015–2024)
 
-**Enterprise-Grade Analytics Platform for Strategic Cybersecurity Decision-Making**
+**Personal Portfolio Project — Enterprise-Style Analytics for Cybersecurity Intelligence**
 
-A comprehensive, executive-ready Streamlit dashboard delivering actionable intelligence on global cyber threats, financial exposure, and defense effectiveness across a decade of incident data.
+A comprehensive Streamlit dashboard showcasing advanced data analytics, machine learning, and interactive visualization skills through the lens of global cyber threat analysis. Built as a portfolio demonstration of executive-level dashboard development and security analytics expertise.
+
+> **Note:** This is an independent personal project created for learning and portfolio purposes, not affiliated with any organization.
 
 ---
 
@@ -14,18 +16,18 @@ Experience the full analytics platform deployed on Streamlit Cloud — no instal
 
 ---
 
-## 📊 Executive Overview
+## 📊 Project Overview
 
-In today's threat landscape, **cybersecurity is a boardroom issue**. This dashboard transforms 10 years of global cyber incident data into strategic intelligence that C-Suite executives, CISOs, and risk managers can act upon immediately.
+This **personal portfolio project** demonstrates professional-grade data analytics and dashboard development skills by analyzing 10 years of global cyber incident data. Designed to showcase expertise in building enterprise-style intelligence platforms that C-Suite executives, CISOs, and risk managers would use in real-world scenarios.
 
-**Why This Matters:**
-- **$131.4B+** in tracked financial losses across industries
-- **1.3B+** affected users globally
-- **10 countries** analyzed across multiple threat vectors
-- **Real-time filtering** by year, region, and industry for tailored insights
-- **Predictive ML models** identifying high-risk incidents before they escalate
+**What This Project Demonstrates:**
+- **Data Engineering:** Processing complex datasets with $131.4B+ in financial losses and 1.3B+ user records
+- **Analytics Expertise:** Multi-dimensional analysis across 10 countries and multiple threat vectors
+- **UI/UX Design:** Executive-ready interface with real-time filtering by year, region, and industry
+- **Machine Learning:** Predictive models for high-risk incident classification
+- **Data Visualization:** Interactive Plotly charts translating technical data into business insights
 
-Built for decision-makers who need clarity, not complexity.
+Built to demonstrate the ability to create decision-support tools with clarity and professional polish.
 
 ---
 
@@ -247,9 +249,17 @@ Passionate about transforming complex data into strategic business intelligence.
 
 ---
 
-## 📄 License
+## 📄 License & Usage
 
-This project is available for portfolio and educational purposes. For commercial use or collaboration inquiries, please contact the author.
+**Personal Portfolio Project** — Created by Atharva Soundankar for educational and demonstration purposes.
+
+- ✅ Free to view and learn from
+- ✅ Code available for educational reference
+- ✅ Ideal for portfolio reviews and technical assessments
+- ⚠️ Not intended for commercial deployment without proper licensing
+- 💼 For collaboration, employment, or consulting inquiries, please contact the author
+
+This is an independent project showcasing technical skills and is not affiliated with any company or organization.
 
 ---
 
