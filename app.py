@@ -1192,7 +1192,7 @@ st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: #64748b; font-size: 13px; line-height: 1.6;'>"
     "🔐 <strong>Global Cyber Risk Intelligence Dashboard</strong> | Data Period: 2015–2024<br>"
-    "Made with <a href='https://github.com/mercydeez' target='_blank' style='color: #ef4444; text-decoration: none; font-size: 16px;'>❤️</a> by <strong>Atharva Soundankar</strong>"
+    "Made with <a href='https://github.com/mercydeez' target='_blank' style='color: #ef4444; text-decoration: none; font-size: 16px;'>❤️</a>"
     "</div>",
     unsafe_allow_html=True
 )
